@@ -1,2 +1,2 @@
-# Task_1_2-
+# Tasks
 Will perform task as given in the courde
